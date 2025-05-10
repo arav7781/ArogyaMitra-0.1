@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-ULTRAVOX_API_KEY = "rnurY5HM.htT6Nhb2Ck360xmYVSkTfCkOFhUF9XOR"
+ULTRAVOX_API_KEY = ""
 ULTRAVOX_API_URL = 'https://api.ultravox.ai/api/calls'
 
 # Load the prompt template from file at startup
