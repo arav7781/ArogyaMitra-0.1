@@ -528,7 +528,7 @@ const UserInstructions = () => {
 const generateConversationSummary = async (messages) => {
   try {
     const groq = new Groq({
-      apiKey: "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",
+      apiKey: "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",
       dangerouslyAllowBrowser: true,
     })
 
